@@ -27,6 +27,7 @@ public class MainActivity extends ActionBarActivity {
     	// TODO Auto-generated method stub
     	super.onResume();
     	new GL().log();
+    	new Util().log();
     }
 
     @Override

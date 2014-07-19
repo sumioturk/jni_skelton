@@ -1,10 +1,3 @@
-/*
- * gl.h
- *
- *  Created on: Jul 19, 2014
- *      Author: sumioturk
- */
-
 #ifndef GL_H_
 #define GL_H_
 
