@@ -1,4 +1,4 @@
-obj/local/armeabi/objs/gl/renderer.o: jni/renderer.cpp \
+obj/local/armeabi/objs/gl/renderer.o: jni/gl/renderer.cpp \
  /Users/sumioturk/Documents/android-ndk-r10/platforms/android-19/arch-arm/usr/include/stdint.h \
  /Users/sumioturk/Documents/android-ndk-r10/platforms/android-19/arch-arm/usr/include/sys/_types.h \
  /Users/sumioturk/Documents/android-ndk-r10/platforms/android-19/arch-arm/usr/include/machine/_types.h \
@@ -46,10 +46,10 @@ obj/local/armeabi/objs/gl/renderer.o: jni/renderer.cpp \
  /Users/sumioturk/Documents/android-ndk-r10/platforms/android-19/arch-arm/usr/include/KHR/khrplatform.h \
  /Users/sumioturk/Documents/android-ndk-r10/platforms/android-19/arch-arm/usr/include/GLES/gl.h \
  /Users/sumioturk/Documents/android-ndk-r10/platforms/android-19/arch-arm/usr/include/GLES/glplatform.h \
- jni/logger.h \
+ jni/gl/logger.h \
  /Users/sumioturk/Documents/android-ndk-r10/platforms/android-19/arch-arm/usr/include/strings.h \
  /Users/sumioturk/Documents/android-ndk-r10/platforms/android-19/arch-arm/usr/include/android/log.h \
- jni/renderer.h
+ jni/gl/renderer.h
 
 /Users/sumioturk/Documents/android-ndk-r10/platforms/android-19/arch-arm/usr/include/stdint.h:
 
@@ -145,10 +145,10 @@ obj/local/armeabi/objs/gl/renderer.o: jni/renderer.cpp \
 
 /Users/sumioturk/Documents/android-ndk-r10/platforms/android-19/arch-arm/usr/include/GLES/glplatform.h:
 
-jni/logger.h:
+jni/gl/logger.h:
 
 /Users/sumioturk/Documents/android-ndk-r10/platforms/android-19/arch-arm/usr/include/strings.h:
 
 /Users/sumioturk/Documents/android-ndk-r10/platforms/android-19/arch-arm/usr/include/android/log.h:
 
-jni/renderer.h:
+jni/gl/renderer.h:
